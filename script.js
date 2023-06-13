@@ -86,7 +86,7 @@ const handleSubmit = async (e) => {
     // messageDiv.innerHTML = "..."
     loader(messageDiv)
 
-    const response = await fetch("https://github.com/MEGADROID-X23/sonia.git", {
+    const response = await fetch('https://sonia-backend.onrender.com/', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',

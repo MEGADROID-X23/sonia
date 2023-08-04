@@ -166,3 +166,8 @@ form img {
       height: 100;
   }
 }
+
+marquee{
+  background-color: skyblue;
+  font-weight: 500;
+}

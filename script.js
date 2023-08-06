@@ -118,3 +118,5 @@ form.addEventListener('keyup', (e) => {
         handleSubmit(e)
     }
 })
+
+// SONIA - An Open AI virtual assistant by Tochi 'MEGADROID' Nwadibia
